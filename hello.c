@@ -2,7 +2,7 @@
 
 int main()
  {
- 	printf("hello word!\n");
+ 	printf("12+33=%d",12+33);
  	
  	return 0;
  }
